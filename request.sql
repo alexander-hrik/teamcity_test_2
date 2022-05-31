@@ -1,1 +1,1 @@
-select * from full_region.rfa_acc limit 1;
+select rfam_acc from full_region limit 2;
